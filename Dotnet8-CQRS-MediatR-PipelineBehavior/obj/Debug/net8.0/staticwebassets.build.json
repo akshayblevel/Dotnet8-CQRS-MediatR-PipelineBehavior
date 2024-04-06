@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "184RavamyjYYooLHcMs/84dLH6zslKLFoyJJ2WWq2d4=",
+  "Source": "Dotnet8-CQRS-MediatR-PipelineBehavior",
+  "BasePath": "_content/Dotnet8-CQRS-MediatR-PipelineBehavior",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
